@@ -1,0 +1,4 @@
+/dev/sda3 / ext4 rw,relatime 0 1
+/dev/sda2 none swap defaults 0 0
+/dev/sda1 /boot vfat rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro 0 2
+/dev/sda4 /home ext4 rw,relatime 0 2
